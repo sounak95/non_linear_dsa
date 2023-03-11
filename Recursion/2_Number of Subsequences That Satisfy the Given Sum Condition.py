@@ -26,4 +26,4 @@ class Solution(object):
 
         return self.helper(0,0,nums, target)
 
-print(Solution().numSubseq([1,2,1],3))
+print(Solution().numSubseq([1,1,2],3))
