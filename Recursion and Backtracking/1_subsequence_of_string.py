@@ -24,5 +24,5 @@ def subsequences(str):
     helper(str, 0, output, ans)
     return ans
 
-print(subsequence("abc"))
+print(subsequences("abc"))
 
